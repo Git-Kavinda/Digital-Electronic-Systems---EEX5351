@@ -2,6 +2,7 @@
 
 ## Student - S.A.P. Kavinda
 ## Instructors - N.C. Wanigasooriya,C. J. Basnayakege
+>Design Project : https://blog-kavinda.web.app/projects/processor-digital-design/designing-digital-controller-for-electronic-dumbwaiter-lift-(edl)-system.html
 
 ###  Syllabus of EEX5351
 **Unit 01: Design Approaches**
